@@ -1,5 +1,6 @@
 using GRH_SENTECH.Data;
 using GRH_SENTECH.Entity;
+using Microsoft.EntityFrameworkCore;
 
 namespace GRH_SENTECH.Repository.Implement
 {
