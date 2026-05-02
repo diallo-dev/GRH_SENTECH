@@ -1,0 +1,8 @@
+/Users/moustapha/Downloads/GRH_SENTECH/GRH_SENTECH/obj/Debug/net8.0/GRH_SENTECH.csproj.AssemblyReference.cache
+/Users/moustapha/Downloads/GRH_SENTECH/GRH_SENTECH/obj/Debug/net8.0/GRH_SENTECH.GeneratedMSBuildEditorConfig.editorconfig
+/Users/moustapha/Downloads/GRH_SENTECH/GRH_SENTECH/obj/Debug/net8.0/GRH_SENTECH.AssemblyInfoInputs.cache
+/Users/moustapha/Downloads/GRH_SENTECH/GRH_SENTECH/obj/Debug/net8.0/GRH_SENTECH.AssemblyInfo.cs
+/Users/moustapha/Downloads/GRH_SENTECH/GRH_SENTECH/obj/Debug/net8.0/GRH_SENTECH.csproj.CoreCompileInputs.cache
+/Users/moustapha/Downloads/GRH_SENTECH/GRH_SENTECH/obj/Debug/net8.0/GRH_SENTECH.MvcApplicationPartsAssemblyInfo.cache
+/Users/moustapha/Downloads/GRH_SENTECH/GRH_SENTECH/obj/Debug/net8.0/GRH_SENTECH.RazorAssemblyInfo.cache
+/Users/moustapha/Downloads/GRH_SENTECH/GRH_SENTECH/obj/Debug/net8.0/GRH_SENTECH.RazorAssemblyInfo.cs
